@@ -1,0 +1,1 @@
+Create a data/ folder locally. Keep raw and cleaned data separate. Required examples: cleaned_launches.csv and verified_launch_sites.csv. Use the exact course-provided dataset if required by the assignment. Do not commit data if the source license or course rules prohibit it.
